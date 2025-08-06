@@ -42,8 +42,7 @@
     "java": ">=${java_version}"
   },
   "breaks": {
-    "soundphysics": "*",
-    "voicechat": "<${minecraft_version}-${voicechat_api_version}"
+    "soundphysics": "*"
   },
   "suggests": {
     "modmenu": "*",
